@@ -14,7 +14,7 @@ package lhd;
 public class LHD {
 
     public static void main(String[] args) {
-        System.out.println("我是LHD！！");
+        System.out.println("我是臭德子！！");
     }
 
 }

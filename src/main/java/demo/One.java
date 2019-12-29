@@ -24,6 +24,12 @@ public class One {
     }
 
 
+    public void test1(){
+
+        System.out.println("调用");
+
+    }
+
 
 
 }

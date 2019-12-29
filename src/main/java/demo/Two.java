@@ -14,7 +14,11 @@ package demo;
 public class Two {
 
     public static void main(String[] args) {
-        System.out.println("hello word !!!");
+
+        String a  = "nihao";
+
+        System.out.println("hello word !!!"+a);
+
     }
 
 }

@@ -13,14 +13,25 @@ package demo;
  */
 public class One {
 
-
     public static void main(String[] args) {
         Integer a = (Integer) 129;
         Integer b = (Integer) 129;
         System.out.println(a==b);
     }
 
+    public void fun() {
+
+    }
 
 
+    public void test1(){
+
+        System.out.println("调用");
+
+    }
+
+    public void  test2(){
+        System.out.println("香肠来了!!!");
+    }
 
 }

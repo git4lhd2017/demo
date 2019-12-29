@@ -13,6 +13,6 @@ package dl;
  */
 public class Three {
     public static void main(String[] args) {
-        System.out.println("你好,我是香肠!!!");
+        System.out.println("你好,我是香肠2号!!!");
     }
 }

@@ -1,9 +1,9 @@
-package dl;
+package demo;
 
 /**
- * All rights Reserved, Designed By www.info4z.club
- * <p>title:dl</p>
- * <p>ClassName:Three</p>
+ * All rights Reserved, Designed By 网址
+ * <p>title:demo</p>
+ * <p>ClassName:Two</p>
  * <p>Description:TODO(请用一句话描述这个类的作用)</p>
  * <p>Compony:Info4z</p>
  * author:poker_heart
@@ -11,8 +11,14 @@ package dl;
  * version:1.0
  * 注意：本内容仅限于公司内部传阅，禁止外泄以及用于其他的商业目
  */
-public class Three {
+public class Two {
+
     public static void main(String[] args) {
-        System.out.println("你好,我是香肠2号!!!");
+
+        String a  = "nihao";
+
+        System.out.println("hello word !!!"+a);
+
     }
+
 }

@@ -17,7 +17,7 @@ public class Two {
 
         String a  = "nihao";
 
-        System.out.println("hello word !!!"+a);
+        System.out.println("hello word !!"+a);
 
     }
 

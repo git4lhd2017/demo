@@ -30,6 +30,8 @@ public class One {
 
     }
 
-
+    public void  test2(){
+        System.out.println("香肠来了!!!");
+    }
 
 }

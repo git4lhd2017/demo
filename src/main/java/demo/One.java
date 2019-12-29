@@ -20,7 +20,9 @@ public class One {
         System.out.println(a==b);
     }
 
-
+ public void lzw(){
+     System.out.println("董丽啊");
+ }
     public void  test2(){
         System.out.println("香肠来了!!!");
     }
